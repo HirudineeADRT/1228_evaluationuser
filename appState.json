@@ -1,0 +1,172 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "93e22ecc-7c71-46b7-a211-59ae3e7dd9bd": {
+        "id": "93e22ecc-7c71-46b7-a211-59ae3e7dd9bd",
+        "parent": null,
+        "name": "1228_evaluationUser.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "1228_evaluationUser.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "1228evaluationUser"
+        },
+        "triggers": [],
+        "lastUpdated": 1609131069882
+      },
+      "9bb556f8-6815-4ff0-92ac-6315f973adde": {
+        "id": "9bb556f8-6815-4ff0-92ac-6315f973adde",
+        "parent": null,
+        "name": "func01.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "func01.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "func01"
+        },
+        "triggers": [],
+        "lastUpdated": 1609130943643
+      },
+      "3cc6f2dd-d248-48a8-9158-d1aa52a60ab9": {
+        "id": "3cc6f2dd-d248-48a8-9158-d1aa52a60ab9",
+        "parent": null,
+        "name": "func02.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "func02.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "func02"
+        },
+        "triggers": [],
+        "lastUpdated": 1609130991482
+      },
+      "8418d159-5714-467d-b1bb-651fbcb63218": {
+        "id": "8418d159-5714-467d-b1bb-651fbcb63218",
+        "parent": null,
+        "name": "func03.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "func03.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "func03"
+        },
+        "triggers": [],
+        "lastUpdated": 1609131000939
+      },
+      "18a8e10b-94ff-44db-bad8-c75de42477dd": {
+        "id": "18a8e10b-94ff-44db-bad8-c75de42477dd",
+        "parent": null,
+        "name": "func05.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "func05.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "func05"
+        },
+        "triggers": [],
+        "lastUpdated": 1609131151278
+      }
+    },
+    "openFiles": [
+      "93e22ecc-7c71-46b7-a211-59ae3e7dd9bd",
+      "9bb556f8-6815-4ff0-92ac-6315f973adde",
+      "3cc6f2dd-d248-48a8-9158-d1aa52a60ab9",
+      "8418d159-5714-467d-b1bb-651fbcb63218",
+      "18a8e10b-94ff-44db-bad8-c75de42477dd"
+    ],
+    "currentFileId": "18a8e10b-94ff-44db-bad8-c75de42477dd",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.7.1",
+    "projectName": "1228_evaluationUser",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1609131155325
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "1228_evaluationuser",
+      "url": "https://github.com/HirudineeADRT/1228_evaluationuser"
+    }
+  }
+}
