@@ -108,7 +108,7 @@
         "filePath": "func05.js",
         "cursor": {
           "lineNumber": 2,
-          "column": 5
+          "column": 13
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -160,7 +160,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1609131155325
+    "lastSave": 1609131370853
   },
   "VCS_STATE": {
     "provider": "GitHub",
